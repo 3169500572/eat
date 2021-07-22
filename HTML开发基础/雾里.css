@@ -1,0 +1,13 @@
+
+h1 {
+    font-size : 12px;
+    color : #930;
+    text-align: center;
+}
+
+div {
+    color: red;
+    border: 1px solid blue;
+    width: 100px;
+    height: 22px;
+}
